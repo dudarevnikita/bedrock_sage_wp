@@ -21,5 +21,6 @@ Plugin timber
 
 ------
 ### Original repo
-[Bedrock wp]: https://github.com/roots/bedrock
-[Sage theme]: https://github.com/roots/sage
+[Bedrock wp](https://github.com/roots/bedrock)
+
+[Sage theme](https://github.com/roots/sage)
